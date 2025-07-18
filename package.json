@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@wkl-training/ascpc-npm-example": "^1.0.3",
     "express": "^5.1.0"
   }
 }
